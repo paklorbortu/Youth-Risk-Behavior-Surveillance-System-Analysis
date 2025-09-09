@@ -32,7 +32,7 @@ trends to support data-driven decision-making in public health and education.
 ## Files
 - `Youth_Risk_Behavior_Surveillance_System_(YRBSS)_Report.pdf` → Final project report
 - `YRBSS_Dashboard.pbix` → Power BI file containing interactive visualizations
-- [Centers for Disease Control and Prevention (CDC) – YRBSS Dataset]([https://www.cdc.gov/healthyyouth/data/yrbs/data.htm](https://data.cdc.gov/Youth-Risk-Behaviors/DASH-Youth-Risk-Behavior-Surveillance-System-YRBSS/k5bc-k3g8/about_data))
+- [Centers for Disease Control and Prevention (CDC) - YRBSS Dataset](https://data.cdc.gov/Youth-Risk-Behaviors/DASH-Youth-Risk-Behavior-Surveillance-System-YRBSS/k5bc-k3g8/about_data)
 
 ## Tools & Technologies
 
