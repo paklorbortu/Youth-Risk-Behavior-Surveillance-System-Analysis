@@ -19,28 +19,6 @@ trends to support data-driven decision-making in public health and education.
 
 - Provide actionable recommendations for youth health programs.
 
-## Dataset Overview
-
-- Source: Centers for Disease Control and Prevention (CDC)
-
-- Format: CSV
-
-- Period covered: 1991–2017
-
-- Size: 751K rows × 35 columns
-
-- Key variables include:
-
-- YEAR: Year of survey
-
-- Sex, Race, Grade: Demographics
-
-- Topic & Subtopic: Behavior categories (e.g., Physical Activity, Substance Use)
-
-- Greater_Risk_Data_Value / Lesser_Risk_Data_Value: Risk indicators
-
-- Sample_Size: Number of respondents
-
 ##  Methodology
 
 - Data Loading: Imported dataset into Google BigQuery.
@@ -50,6 +28,14 @@ trends to support data-driven decision-making in public health and education.
 - Visualization: Designed Power BI dashboards to highlight insights.
 
 - Reporting: Compiled findings into a structured report with conclusions and recommendations.
+
+## Tools & Technologies
+
+- SQL (Google BigQuery) → Querying and aggregations
+
+- Power BI → Dashboards and visualizations
+
+- Python →  Graphing
 
 ## Key Findings
 
@@ -75,19 +61,10 @@ trends to support data-driven decision-making in public health and education.
 
 - Strengthen digital safety education to combat cyberbullying in high-risk groups.
 
-## Tools & Technologies
-
-- SQL (Google BigQuery) → Querying and aggregations
-
-- Power BI → Dashboards and visualizations
-
-- Python →  Graphing
-
 ## Report
 
 The full project report (with detailed analysis and recommendations) is included here:
 `Youth_Risk_Behavior_Surveillance_System_(YRBSS)_Report.pdf`
-
 
 ## Acknowledgements
 
