@@ -65,15 +65,6 @@ trends to support data-driven decision-making in public health and education.
 
 - Trends: Mental health concerns, inactivity, and substance experimentation are increasing.
 
-## Visualizations (Power BI Dashboard)
-
-Screenshots of the Power BI dashboard created for this project:
-
-<img width="1432" height="803" alt="yrbss_dash_1" src="https://github.com/user-attachments/assets/cb73d5ad-ff47-485b-a18a-42b10b26972f" />
-
-
-The dashboard allows filtering by sex, race, grade, and year, providing interactive insights into trends across risk behaviors.
-
 ## Recommendations
 
 - Expand daily physical activity programs, especially for females in 7th–8th grade.
@@ -95,7 +86,7 @@ The dashboard allows filtering by sex, race, grade, and year, providing interact
 ## Report
 
 The full project report (with detailed analysis and recommendations) is included here:
-`Youth Risk Behavior Surveillance System (YRBSS) Report`
+`Youth_Risk_Behavior_Surveillance_System_(YRBSS)_Report.pdf`
 
 
 ## Acknowledgements
