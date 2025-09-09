@@ -30,9 +30,9 @@ trends to support data-driven decision-making in public health and education.
 - Reporting: Compiled findings into a structured report with conclusions and recommendations.
 
 ## Files
-`Youth_Risk_Behavior_Surveillance_System_(YRBSS)_Report.pdf` → Final project report
-`YRBSS_Dashboard.pbix` → Power BI file containing interactive visualizations
-[YRBSS_Dataset](https://data.cdc.gov/Youth-Risk-Behaviors/DASH-Youth-Risk-Behavior-Surveillance-System-YRBSS/k5bc-k3g8/about_data)
+- `Youth_Risk_Behavior_Surveillance_System_(YRBSS)_Report.pdf` → Final project report
+- `YRBSS_Dashboard.pbix` → Power BI file containing interactive visualizations
+- [YRBSS_Dataset](https://data.cdc.gov/Youth-Risk-Behaviors/DASH-Youth-Risk-Behavior-Surveillance-System-YRBSS/k5bc-k3g8/about_data)
 
 ## Tools & Technologies
 
